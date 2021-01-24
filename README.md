@@ -3,7 +3,7 @@
   <img align="left" alt="Vipare | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="http://www.kahzam.co/">
-  <img align="left" alt="Vipare | Website" width="21px" src="https://avatars2.githubusercontent.com/u/68965951?s=60&v=4" />
+  <img align="left" alt="Vipare | Website" width="21px" src="https://kahzam.co/wp-content/uploads/2020/10/KahZam_-Logo_NoBackground-149x149.png" />
 </a>
 
 <br />
